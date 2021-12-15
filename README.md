@@ -15,3 +15,5 @@ The source File is the .Designer.cs file you want to convert to Powershell.
 The Destination is the folder that you want the converted form to be placed. 
 
 This does NOT delete the original .Designer.cs file it just creates a new PS1 file from it.
+
+You may see a progress bar pop up. Once it is full you can close the window even though it says "Please wait".
